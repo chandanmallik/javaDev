@@ -1,0 +1,2 @@
+This text is from recent input variable 
+-have nice day.
